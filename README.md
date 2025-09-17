@@ -8,4 +8,4 @@ Registering at least 2 ships
 
 Viewing both lists
 Successfully loading 1 ship
-<img src="Screenshot(2).png">
+<img src="Screenshot (5).png">
